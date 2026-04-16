@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <i>Independent Research by M. Bhanu Krishna | April 2025-2026</i>
+  <i>Independent Research by N. Mohana Krishna | April 2025-2026</i>
 </p>
 
 ---
