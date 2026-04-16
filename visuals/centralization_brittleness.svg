@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 450" font-family="Inter,system-ui,sans-serif">
+<rect width="700" height="450" fill="#0d1117" rx="12"/>
+<text x="350" y="32" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">The Centralization-Brittleness Law</text>
+<line x1="70" y1="380" x2="630" y2="380" stroke="#e6edf3" stroke-opacity="0.3" stroke-width="1"/>
+<line x1="70" y1="70" x2="70" y2="380" stroke="#e6edf3" stroke-opacity="0.3" stroke-width="1"/>
+<text x="350" y="435" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.6">Neural Centralization Score (Peak Z / Hub Count)</text>
+<text x="15" y="225" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.6" transform="rotate(-90 15 225)">cDoS Vulnerability</text>
+<rect x="275.98837637019057" y="70.0" width="354.01162362980943" height="137.77777777777777" fill="#f85149" opacity="0.06" rx="5"/>
+<text x="625" y="142.88888888888889" fill="#f85149" font-size="9" text-anchor="end" opacity="0.5">DANGER ZONE</text>
+<rect x="70" y="276.6666666666667" width="164.79070109615245" height="103.33333333333331" fill="#3fb950" opacity="0.06" rx="5"/>
+<text x="75" y="359.3333333333333" fill="#3fb950" font-size="9" opacity="0.5">SAFE ZONE</text>
+<circle cx="224.0793055249025" cy="173.33333333333334" r="18" fill="#3498db" opacity="0.3"/>
+<circle cx="224.0793055249025" cy="173.33333333333334" r="8" fill="#3498db" stroke="#0d1117" stroke-width="2"/>
+<text x="224.0793055249025" y="151.33333333333334" fill="#3498db" font-size="10" text-anchor="middle" font-weight="600">OpenHermes</text>
+<circle cx="94.67740748914882" cy="242.22222222222223" r="18" fill="#9b59b6" opacity="0.3"/>
+<circle cx="94.67740748914882" cy="242.22222222222223" r="8" fill="#9b59b6" stroke="#0d1117" stroke-width="2"/>
+<text x="94.67740748914882" y="220.22222222222223" fill="#9b59b6" font-size="10" text-anchor="middle" font-weight="600">Qwen Seq</text>
+<circle cx="94.51261678805267" cy="104.44444444444446" r="18" fill="#e74c3c" opacity="0.3"/>
+<circle cx="94.51261678805267" cy="104.44444444444446" r="8" fill="#e74c3c" stroke="#0d1117" stroke-width="2"/>
+<text x="94.51261678805267" y="82.44444444444446" fill="#e74c3c" font-size="10" text-anchor="middle" font-weight="600">Qwen Mixed</text>
+<circle cx="556.9565217391305" cy="104.44444444444446" r="18" fill="#e67e22" opacity="0.3"/>
+<circle cx="556.9565217391305" cy="104.44444444444446" r="8" fill="#e67e22" stroke="#0d1117" stroke-width="2"/>
+<text x="556.9565217391305" y="82.44444444444446" fill="#e67e22" font-size="10" text-anchor="middle" font-weight="600">Aya Expanse</text>
+<circle cx="544.597219156919" cy="104.44444444444446" r="18" fill="#f85149" opacity="0.3"/>
+<circle cx="544.597219156919" cy="104.44444444444446" r="8" fill="#f85149" stroke="#0d1117" stroke-width="2"/>
+<text x="544.597219156919" y="82.44444444444446" fill="#f85149" font-size="10" text-anchor="middle" font-weight="600">Reflection</text>
+<circle cx="174.6420951960568" cy="311.1111111111111" r="18" fill="#3fb950" opacity="0.3"/>
+<circle cx="174.6420951960568" cy="311.1111111111111" r="8" fill="#3fb950" stroke="#0d1117" stroke-width="2"/>
+<text x="174.6420951960568" y="289.1111111111111" fill="#3fb950" font-size="10" text-anchor="middle" font-weight="600">Aya 23</text>
+</svg>

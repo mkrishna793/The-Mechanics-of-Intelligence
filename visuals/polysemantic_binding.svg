@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 350" font-family="Inter,system-ui,sans-serif">
+<rect width="800" height="350" fill="#0d1117" rx="12"/>
+<text x="400" y="32" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">Polysemantic Binding - Shared Safety-Logic Hub Neurons</text>
+<text x="120" y="67.54166666666666" fill="#3498db" font-size="11" text-anchor="end" font-weight="600">OpenHermes</text>
+<rect x="130" y="50.0" width="226.92307692307693" height="27.083333333333332" rx="4" fill="#f85149" opacity="0.8"/>
+<text x="364.9230769230769" y="67.54166666666666" fill="#e6edf3" font-size="12" font-weight="700">5 shared hubs</text>
+<text x="120" y="109.20833333333333" fill="#9b59b6" font-size="11" text-anchor="end" font-weight="600">Qwen Seq</text>
+<rect x="130" y="91.66666666666666" width="453.84615384615387" height="27.083333333333332" rx="4" fill="#f85149" opacity="0.8"/>
+<text x="591.8461538461538" y="109.20833333333333" fill="#e6edf3" font-size="12" font-weight="700">10 shared hubs</text>
+<text x="120" y="150.87499999999997" fill="#e74c3c" font-size="11" text-anchor="end" font-weight="600">Qwen Mixed</text>
+<rect x="130" y="133.33333333333331" width="453.84615384615387" height="27.083333333333332" rx="4" fill="#f85149" opacity="0.8"/>
+<text x="591.8461538461538" y="150.87499999999997" fill="#e6edf3" font-size="12" font-weight="700">10 shared hubs</text>
+<text x="120" y="192.54166666666666" fill="#e67e22" font-size="11" text-anchor="end" font-weight="600">Aya Expanse</text>
+<rect x="130" y="175.0" width="45.38461538461539" height="27.083333333333332" rx="4" fill="#3fb950" opacity="0.8"/>
+<text x="183.3846153846154" y="192.54166666666666" fill="#e6edf3" font-size="12" font-weight="700">1 shared hubs</text>
+<text x="120" y="234.20833333333331" fill="#f85149" font-size="11" text-anchor="end" font-weight="600">Reflection</text>
+<rect x="130" y="216.66666666666666" width="45.38461538461539" height="27.083333333333332" rx="4" fill="#3fb950" opacity="0.8"/>
+<text x="183.3846153846154" y="234.20833333333331" fill="#e6edf3" font-size="12" font-weight="700">1 shared hubs</text>
+<text x="120" y="275.875" fill="#3fb950" font-size="11" text-anchor="end" font-weight="600">Aya 23</text>
+<rect x="130" y="258.3333333333333" width="90.76923076923077" height="27.083333333333332" rx="4" fill="#3fb950" opacity="0.8"/>
+<text x="228.76923076923077" y="275.875" fill="#e6edf3" font-size="12" font-weight="700">2 shared hubs</text>
+</svg>

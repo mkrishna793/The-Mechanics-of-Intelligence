@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" font-family="Inter,system-ui,sans-serif">
+<rect width="900" height="340" fill="#0d1117" rx="12"/>
+<text x="450" y="32" fill="#e6edf3" font-size="18" font-weight="700" text-anchor="middle">The Four Laws of Neural Architecture</text>
+<rect x="43.0" y="55" width="190" height="200" rx="10" fill="#f85149" fill-opacity="0.12" stroke="#f85149" stroke-width="2"/>
+<text x="138.0" y="83" fill="#f85149" font-size="13" font-weight="800" text-anchor="middle">Law 1</text>
+<text x="138.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Polysemantic</text>
+<text x="138.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Binding</text>
+<line x1="63.0" y1="155" x2="213.0" y2="155" stroke="#f85149" stroke-opacity="0.3"/>
+<text x="138.0" y="177" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">Safety and logic share</text>
+<text x="138.0" y="193" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">the same hub nodes</text>
+<text x="245.0" y="159.0" fill="#e6edf3" font-size="16" text-anchor="middle" opacity="0.4">></text>
+<rect x="251.0" y="55" width="190" height="200" rx="10" fill="#d29922" fill-opacity="0.12" stroke="#d29922" stroke-width="2"/>
+<text x="346.0" y="83" fill="#d29922" font-size="13" font-weight="800" text-anchor="middle">Law 2</text>
+<text x="346.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Centralization-</text>
+<text x="346.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Brittleness</text>
+<line x1="271.0" y1="155" x2="421.0" y2="155" stroke="#d29922" stroke-opacity="0.3"/>
+<text x="346.0" y="177" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">Fewer hubs = more</text>
+<text x="346.0" y="193" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">fragile safety</text>
+<text x="453.0" y="159.0" fill="#e6edf3" font-size="16" text-anchor="middle" opacity="0.4">></text>
+<rect x="459.0" y="55" width="190" height="200" rx="10" fill="#bc8cff" fill-opacity="0.12" stroke="#bc8cff" stroke-width="2"/>
+<text x="554.0" y="83" fill="#bc8cff" font-size="13" font-weight="800" text-anchor="middle">Law 3</text>
+<text x="554.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Scale-Binding</text>
+<text x="554.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Paradox</text>
+<line x1="479.0" y1="155" x2="629.0" y2="155" stroke="#bc8cff" stroke-opacity="0.3"/>
+<text x="554.0" y="177" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">More parameters =</text>
+<text x="554.0" y="193" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">more binding, not less</text>
+<text x="661.0" y="159.0" fill="#e6edf3" font-size="16" text-anchor="middle" opacity="0.4">></text>
+<rect x="667.0" y="55" width="190" height="200" rx="10" fill="#3fb950" fill-opacity="0.12" stroke="#3fb950" stroke-width="2"/>
+<text x="762.0" y="83" fill="#3fb950" font-size="13" font-weight="800" text-anchor="middle">Law 4</text>
+<text x="762.0" y="110" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Dual-Hub</text>
+<text x="762.0" y="128" fill="#e6edf3" font-size="13" font-weight="600" text-anchor="middle">Safety</text>
+<line x1="687.0" y1="155" x2="837.0" y2="155" stroke="#3fb950" stroke-opacity="0.3"/>
+<text x="762.0" y="177" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">Separated hubs =</text>
+<text x="762.0" y="193" fill="#e6edf3" font-size="11" text-anchor="middle" opacity="0.7">improved robustness</text>
+</svg>

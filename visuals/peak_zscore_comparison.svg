@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 380" font-family="Inter,system-ui,sans-serif">
+<rect width="800" height="380" fill="#0d1117" rx="12"/>
+<text x="400" y="32" fill="#e6edf3" font-size="16" font-weight="700" text-anchor="middle">Peak Z-Score by Model - Neural Centralization Intensity</text>
+<text x="120" y="70.91666666666667" fill="#3498db" font-size="11" text-anchor="end" font-weight="600">OpenHermes</text>
+<rect x="130" y="50.0" width="581.8181818181818" height="33.833333333333336" rx="4" fill="#3498db" opacity="0.8"/>
+<text x="719.8181818181818" y="70.91666666666667" fill="#e6edf3" font-size="12" font-weight="700">37.4</text>
+<text x="120" y="119.25000000000001" fill="#9b59b6" font-size="11" text-anchor="end" font-weight="600">Qwen Seq</text>
+<rect x="130" y="98.33333333333334" width="186.3684978123481" height="33.833333333333336" rx="4" fill="#9b59b6" opacity="0.8"/>
+<text x="324.3684978123481" y="119.25000000000001" fill="#e6edf3" font-size="12" font-weight="700">11.98</text>
+<text x="120" y="167.58333333333334" fill="#e74c3c" font-size="11" text-anchor="end" font-weight="600">Qwen Mixed</text>
+<rect x="130" y="146.66666666666669" width="185.12396694214874" height="33.833333333333336" rx="4" fill="#e74c3c" opacity="0.8"/>
+<text x="323.12396694214874" y="167.58333333333334" fill="#e6edf3" font-size="12" font-weight="700">11.9</text>
+<text x="120" y="215.91666666666666" fill="#e67e22" font-size="11" text-anchor="end" font-weight="600">Aya Expanse</text>
+<rect x="130" y="195.0" width="367.7588721438989" height="33.833333333333336" rx="4" fill="#e67e22" opacity="0.8"/>
+<text x="505.7588721438989" y="215.91666666666666" fill="#e6edf3" font-size="12" font-weight="700">23.64</text>
+<text x="120" y="264.25" fill="#f85149" font-size="11" text-anchor="end" font-weight="600">Reflection</text>
+<rect x="130" y="243.33333333333334" width="358.42489061740395" height="33.833333333333336" rx="4" fill="#f85149" opacity="0.8"/>
+<text x="496.42489061740395" y="264.25" fill="#e6edf3" font-size="12" font-weight="700">23.04</text>
+<text x="120" y="312.58333333333337" fill="#3fb950" font-size="11" text-anchor="end" font-weight="600">Aya 23</text>
+<rect x="130" y="291.6666666666667" width="158.05542051531356" height="33.833333333333336" rx="4" fill="#3fb950" opacity="0.8"/>
+<text x="296.0554205153136" y="312.58333333333337" fill="#e6edf3" font-size="12" font-weight="700">10.16</text>
+<line x1="363.34953816237237" y1="45" x2="363.34953816237237" y2="345" stroke="#f85149" stroke-width="1.5" stroke-dasharray="6,4" stroke-opacity="0.6"/>
+<text x="368.34953816237237" y="42" fill="#f85149" font-size="9" opacity="0.8">Master Hub Threshold (Z=15)</text>
+</svg>
